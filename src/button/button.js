@@ -13,9 +13,6 @@ const AntdButton = () => {
       <Button color="default" variant="dashed" className="m-2">
         Dashed
       </Button>
-      <Button color="default" variant="filled">
-        Filled
-      </Button>
     </div>
   );
 };
