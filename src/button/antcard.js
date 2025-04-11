@@ -8,15 +8,15 @@ const AntdCard = () => {
     <div>
       <Card
         hoverable
-        style={{ width: 240 }}
+        style={{ width: 250 }}
         cover={
           <img
             alt="example"
-            src={imgBurger}
+            src={pizza}
           />
         }
       >
-        <Meta title="Europe Street beat" description="www.instagram.com" />
+        <Meta title="Beats into the different Beats" description="www.FB.com" />
       </Card>
     </div>
   );
